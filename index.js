@@ -1,7 +1,7 @@
 'use strict'
 
 const black = '#000'
-const white = '#999'
+const white = '#ccc'
 const red = '#ff2e88'
 const green = '#50e3c2'
 const cyan = green
