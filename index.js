@@ -9,6 +9,7 @@ const yellow = '#fff'
 const blue = '#fff'
 const magenta = '#fff'
 const lightWhite = '#fff'
+const lightBlack = '#444'
 
 const colors = {
   black,
@@ -19,7 +20,7 @@ const colors = {
   magenta,
   cyan,
   white,
-  lightBlack: black,
+  lightBlack,
   lightRed: red,
   lightGreen: green,
   lightYellow: yellow,
@@ -31,7 +32,7 @@ const colors = {
 
 module.exports.decorateConfig = config => {
   const cursorColor = config.cursorColor || 'rgb(248,29,229)'
-  const borderColor = config.borderColor || '#444'
+  const borderColor = config.borderColor || lightBlack
   
   const tabText = white
   const tabTextActive = '#fff'
