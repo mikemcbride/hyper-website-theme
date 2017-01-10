@@ -7,6 +7,9 @@
     "hyper",
     "hyper-theme"
   ],
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
   "author": "mmcbride1007",
   "license": "MIT"
 }
