@@ -3,9 +3,6 @@
   "version": "1.2.0",
   "description": "a theme for hyper based on the hyper.is website",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [
     "hyper",
     "hyper-theme"
