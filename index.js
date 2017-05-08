@@ -1,14 +1,14 @@
 'use strict'
 
 const black = '#000'
-const white = '#ccc'
+const white = '#fff'
 const red = '#ff2e88'
 const green = '#2cf9f8'
 const cyan = green
-const yellow = '#fff'
-const blue = '#fff'
-const magenta = '#fff'
-const lightWhite = '#fff'
+const yellow = '#ccc'
+const blue = '#ccc'
+const magenta = '#ccc'
+const lightWhite = '#ccc'
 const lightBlack = '#444'
 
 const colors = {
