@@ -52,23 +52,11 @@ module.exports.decorateConfig = config => {
     `,
     css: `
       ${config.css || ''}
-      .tabs_list {
-        margin-left: 0;
-      }
-      .tab_tab.tab_first {
-        padding-left: 82px;
-      }
       .tab_textInner {
         color: ${tabText};
       }
       .tab_tab.tab_active .tab_textInner {
         color: ${tabTextActive};
-      }
-      .tab_firstActive {
-        border-left-width: 0px;
-      }
-      .tabs_borderShim {
-        border-width: 0 !important;
       }
       .splitpane_divider {
         background-color: ${dividerBg} !important;
