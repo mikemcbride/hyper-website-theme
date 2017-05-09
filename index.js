@@ -32,7 +32,7 @@ const colors = {
 
 module.exports.decorateConfig = config => {
   const cursorColor = config.cursorColor || 'rgb(248,29,229)'
-  const borderColor = config.borderColor || lightBlack
+  const borderColor = config.borderColor || '#404040'
   
   const tabText = lightWhite
   const tabTextActive = white
