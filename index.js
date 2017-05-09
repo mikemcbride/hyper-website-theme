@@ -9,7 +9,7 @@ const yellow = '#ccc'
 const blue = '#ccc'
 const magenta = '#ccc'
 const lightWhite = '#ccc'
-const lightBlack = '#444'
+const lightBlack = '#777'
 
 const colors = {
   black,
