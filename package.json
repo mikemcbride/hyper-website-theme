@@ -1,6 +1,6 @@
 {
   "name": "hyper-website-theme",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "description": "a theme for hyper based on the hyper.is website",
   "main": "index.js",
   "keywords": [
