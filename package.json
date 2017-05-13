@@ -10,6 +10,10 @@
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmcbride1007/hyper-website-theme.git"
+  },
   "author": "mmcbride1007",
   "license": "MIT"
 }
