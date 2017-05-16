@@ -39,7 +39,7 @@ module.exports.decorateConfig = config => {
   const dividerBg = 'rgba(255,255,255,.2)'
 
   return Object.assign({}, config, {
-    foregroundColor: lightWhite,
+    foregroundColor: white,
     backgroundColor: black,
     borderColor,
     cursorColor,
