@@ -52,13 +52,13 @@ module.exports.decorateConfig = config => {
     `,
     css: `
       ${config.css || ''}
-      ._textInner {
+      .tab_textInner {
         color: ${tabText};
       }
-      ._tab._active ._textInner {
+      .tab_tab.tab_active .tab_textInner {
         color: ${tabTextActive};
       }
-      ._divider {
+      .splitpane_divider {
         background-color: ${dividerBg} !important;
       }
     `
