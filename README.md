@@ -12,7 +12,7 @@ This is a theme for [Hyper](http://hyper.is) that is based on the color scheme o
 
   ```js
 plugins: [
-  'hyper-website-theme'
+    'hyper-website-theme'
 ],
 ```
 3. Fully reload Hyper (`Cmd+Shift+R`), and tada! :tada:
