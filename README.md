@@ -3,7 +3,7 @@ Hyper Website Theme
 
 This is a theme for [Hyper](http://hyper.is) that is based on the color scheme of their website. Check out the screenshot below.
 
-![screenshot](https://cdn.jsdelivr.net/gh/mmcbride1007/hyper-website-theme/screenshot.png)
+![screenshot](https://cdn.jsdelivr.net/gh/mikemcbride/hyper-website-theme@aab4e9d2ad43797ba9607be5582a21bbdbe331b9/screenshot.png)
 
 ### Install
 
@@ -12,7 +12,7 @@ This is a theme for [Hyper](http://hyper.is) that is based on the color scheme o
 
   ```js
 plugins: [
-      'hyper-website-theme'
+  'hyper-website-theme'
 ],
 ```
 3. Fully reload Hyper (`Cmd+Shift+R`), and tada! :tada:
